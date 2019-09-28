@@ -1,3 +1,3 @@
-#bayesian network structure learning using mcmc sampling
+# bayesian network structure learning using mcmc sampling
 
 
